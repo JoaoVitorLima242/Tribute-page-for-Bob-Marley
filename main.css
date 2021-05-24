@@ -1,0 +1,106 @@
+.container {
+    width: 100%;
+    background: white;
+    min-width: 100px;
+    max-width: 1400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .item1 {
+    background: rgb(126, 246, 148);
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 2px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+  .title {
+    height: 50px;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(46, 46, 46);
+    font-family: Dela Gothic One;
+    max-width: 100%;
+    padding: 5px;
+    margin: 5px;
+  }
+  .tribute-info {
+    text-align: center;
+    padding: 10px 20px;
+    color: rgb(46, 46, 46);
+    font-size: 20px;
+    font-family: lora;
+    max-width: 100%;
+    height: auto;
+    margin: 20px
+  }
+  .img1 {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+    max-width: 100%;
+    height: auto;
+  }
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  .img-text {
+    display: block;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    font-family: markazi text;
+    font-size: 25px;
+    background: rgb(235, 235, 235);
+    border-style: none;
+    border-radius: 10px;
+  }
+  .background-body {
+    background: rgb(175, 242, 175);
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+    border-style: none;
+    border-radius: 10px 10px 0px 0px;
+    padding: 10px 40px 40px 10px;
+  }
+  .title-h3 {
+    font-size: 40px;
+    font-family: Dela Gothic One;
+    padding: 10px 20px 5px 50px;
+    color: rgb(46, 46, 46);
+  }
+  p {
+    font-family: markazi text;
+    font-size: 30px;
+    padding: 0 40px 0px 40px;
+  }
+  .img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 2px;
+  }
+  footer {
+    background: rgb(225, 225, 225);
+    border-radius: 0px 0px 10px 10px;
+    padding: 40px;
+  }
+  .footer-text {
+    font-family: Kumbh Sans;
+    font-size: 25px;
+    padding: 5px 10px 10px 5px;
+    text-align: center;
+  }
+  
